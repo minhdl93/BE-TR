@@ -203,20 +203,6 @@ Mean error                                                    5.478
 
 ---
 
-## 📊 Results
-
-| Model | MAE ↓ | F^w_β ↑ | S_α ↑ |
-|---|---|---|---|
-| SegFormer | 0.028 | 0.487 | 0.660 |
-| Mask2Former | 0.024 | 0.405 | 0.638 |
-| FPNet | 0.027 | 0.474 | 0.696 |
-| MENet | 0.032 | 0.453 | 0.617 |
-| **BE-TR (Ours)** | **0.022** | **0.514** | **0.699** |
-
-All models trained on the same bridge defect dataset with NAFNet+DarkIR pre-processing applied.
-
----
-
 ## 📧 Contact
 
 For questions or issues, please open an [issue](https://github.com/your-username/BE-TR/issues) or contact the corresponding author at [hmoon@sejong.ac.kr](mailto:hmoon@sejong.ac.kr).
