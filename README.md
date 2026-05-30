@@ -217,8 +217,7 @@ If you use this code or dataset in your research, please cite:
 @article{dang2025betr,
   title     = {A Pixel-level Defect Segmentation for Bridge Exterior using an Improved Query-based Transformer},
   author    = {Dang, L. Minh and Lee, Gayoon and Danish, Sufyan and Fayaz, Muhammad and Nguyen, Tan N. and Lee, Kihak and Moon, Hyeonjoon},
-  journal   = {Developments in the Built Environment},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
@@ -226,6 +225,5 @@ If you use this code or dataset in your research, please cite:
 
 ## 🙏 Acknowledgements
 
-This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (RS-2024-00461244). The dataset was developed under the Korean National Information Society Agency (NIA) contract. We thank SG&I System, MUHANIT, ALL FOR LAND, and GDS Consulting Group for data collection, processing, annotation, and quality control.
-
-This codebase builds upon [WPFormer](https://github.com/yan-hao-tian/WPFormer). We thank the authors for their open-source contribution.
+The dataset was developed under the Korean National Information Society Agency (NIA) contract. We thank SG&I System, MUHANIT, ALL FOR LAND, and GDS Consulting Group for data collection, processing, annotation, and quality control.
+This codebase builds upon [WPFormer]([[https://github.com/yan-hao-tian/WPFormer](https://github.com/yfhdm/WPFormer)](https://github.com/yfhdm/WPFormer)). We thank the authors for their open-source contribution.
