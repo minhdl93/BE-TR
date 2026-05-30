@@ -86,7 +86,7 @@ The model trains for 24 epochs with the Adam optimizer (lr = 8×10⁻⁵, cosine
 
 A pretrained BE-TR checkpoint (MAE = 0.022 on the bridge defect test set) is available for download:
 
-📥 **[Download pretrained weights — Google Drive](drivelink)**
+📥 **[Download pretrained weights — Google Drive]([drivelink](https://drive.google.com/file/d/1KjqNMUiejZJP99dJdQ0cokfmwLixVbgx/view?usp=sharing))**
 
 Place the downloaded `.pth` file in:
 ```
